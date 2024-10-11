@@ -5,6 +5,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Prescripto Pannel - Google Chrome 11-10-2024 22_54_00](https://github.com/user-attachments/assets/1bc1dcf1-5e19-4517-81dc-7598e06be0b6)
+
 ## Available Scripts
 
 In the project directory, you can run:
